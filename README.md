@@ -5,13 +5,9 @@ A full-stack application, including a GraphQL server on Node.js, a React front-e
 ### How to use
 
 1) Clone or download repo
-2) Install dependencies: `npm i`
-3) Go to server folder and run
-`
-nodemon app
-` . Nodemon will restart the server for us every time we make changes
-
-4) Go to client folder and run
-`
-npm start
-`
+2) Go to server folder `cd server`
+3) Install dependencies `npm i`
+4) Run`nodemon app` . Nodemon will restart the server for us every time we make changes
+5) Go to client folder `cd ../client`
+6) Install dependencies `npm i`
+7) Run`npm start`
