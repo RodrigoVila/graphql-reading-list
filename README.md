@@ -2,7 +2,7 @@
 
 A full-stack application, including a GraphQL server on Node.js, a React front-end (with Apollo), MongoDB and MongoDB Atlas (ex mLab) to store all the data.
 
-** Example is not working as I accidentally deleted the Atlas cluster 😅 and I need to create it again. I left the code just in case until I fix it :) **
+* Example is not working as I accidentally deleted the Atlas cluster 😅 and I need to create it again. I left the code just in case until I fix it :) *
 
 ### How to use
 
